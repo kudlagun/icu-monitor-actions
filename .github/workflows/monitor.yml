@@ -31,7 +31,7 @@ jobs:
           PORTAL_URLS: "https://course-reg.icu.ac.jp/reg/prereg_clist/GEN.html, https://course-reg.icu.ac.jp/reg/prereg_clist/GEH.html, https://course-reg.icu.ac.jp/reg/prereg_clist/BUS.html"
           COURSE_CODES: ""              # 精确课程清单，如 "GEN025,GEN061,GEH123"
           CODE_PREFIXES: "GEN,GEH,BUS"  # 或按前缀过滤；两者都空则全量
-          INITIAL_NOTIFY: "0"           # 第一次是否把所有课程发一遍（0=否）
+          INITIAL_NOTIFY: "1"           # 第一次是否把所有课程发一遍（0=否）
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python icu_monitor_one_shot.py
 
