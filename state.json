@@ -17,8 +17,8 @@
       "seats": 89
     },
     "GEN061": {
-      "open": false,
-      "seats": 0
+      "open": true,
+      "seats": 1
     },
     "GEN062": {
       "open": false,
