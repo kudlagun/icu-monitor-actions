@@ -2,7 +2,7 @@
   "courses": {
     "GEN012": {
       "open": true,
-      "seats": 115
+      "seats": 116
     },
     "GEN025": {
       "open": false,
@@ -38,11 +38,11 @@
     },
     "GEH063": {
       "open": true,
-      "seats": 49
+      "seats": 50
     },
     "BUS101": {
       "open": true,
-      "seats": 101
+      "seats": 100
     },
     "BUS102": {
       "open": true,
