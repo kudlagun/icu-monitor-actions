@@ -50,7 +50,7 @@
     },
     "BUS206": {
       "open": true,
-      "seats": 47
+      "seats": 46
     },
     "BUS213": {
       "open": false,
@@ -58,7 +58,7 @@
     },
     "BUS308": {
       "open": true,
-      "seats": 93
+      "seats": 92
     }
   }
 }
