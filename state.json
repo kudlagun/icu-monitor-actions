@@ -2,7 +2,7 @@
   "courses": {
     "GEN012": {
       "open": true,
-      "seats": 116
+      "seats": 117
     },
     "GEN025": {
       "open": false,
