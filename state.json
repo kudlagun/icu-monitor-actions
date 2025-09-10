@@ -38,7 +38,7 @@
     },
     "GEH063": {
       "open": true,
-      "seats": 50
+      "seats": 51
     },
     "BUS101": {
       "open": true,
@@ -46,7 +46,7 @@
     },
     "BUS102": {
       "open": true,
-      "seats": 1
+      "seats": 2
     },
     "BUS206": {
       "open": true,
