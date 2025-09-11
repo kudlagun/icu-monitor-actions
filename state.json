@@ -9,8 +9,8 @@
       "seats": 0
     },
     "GEN031": {
-      "open": true,
-      "seats": 1
+      "open": false,
+      "seats": 0
     },
     "GEN052": {
       "open": true,
@@ -26,7 +26,7 @@
     },
     "GEN063": {
       "open": true,
-      "seats": 5
+      "seats": 6
     },
     "GEH032": {
       "open": false,
@@ -38,7 +38,7 @@
     },
     "GEH063": {
       "open": true,
-      "seats": 54
+      "seats": 52
     },
     "BUS101": {
       "open": true,
@@ -58,7 +58,7 @@
     },
     "BUS308": {
       "open": true,
-      "seats": 91
+      "seats": 90
     }
   }
 }
