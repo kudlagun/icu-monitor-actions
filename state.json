@@ -9,8 +9,8 @@
       "seats": 0
     },
     "GEN031": {
-      "open": true,
-      "seats": 1
+      "open": false,
+      "seats": 0
     },
     "GEN052": {
       "open": true,
