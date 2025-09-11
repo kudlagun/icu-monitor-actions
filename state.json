@@ -53,12 +53,12 @@
       "seats": 46
     },
     "BUS213": {
-      "open": true,
-      "seats": 1
+      "open": false,
+      "seats": 0
     },
     "BUS308": {
       "open": true,
-      "seats": 90
+      "seats": 91
     }
   }
 }
